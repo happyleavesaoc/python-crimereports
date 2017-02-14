@@ -13,4 +13,5 @@ cache:
   directories:
     - $HOME/.cache/pip
 language: python
+install: "pip install tox"
 script: tox
