@@ -1,0 +1,6 @@
+dist/
+*.egg-info/
+.tox/
+*.pickle
+*.pyc
+.coverage
