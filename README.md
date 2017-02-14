@@ -19,7 +19,7 @@ for incident in cr.get_incidents(datetime.datetime.now().date(), None, ['Communi
 
 ## Development
 
-Pull requests welcome.
+Pull requests welcome. Must pass `tox` and include tests.
 
 ## Disclaimer
 
