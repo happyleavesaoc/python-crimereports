@@ -4,7 +4,7 @@ from setuptools import find_packages, setup
 
 setup(
     name='crimereports',
-    version='1.0.0',
+    version='1.0.1',
     description='Provides basic API to crimereports.com.',
     url='https://github.com/happyleavesaoc/python-crimereports/',
     license='MIT',
